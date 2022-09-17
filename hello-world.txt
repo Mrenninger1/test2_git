@@ -1,2 +1,4 @@
-This file is for practice
+I'm editing the first line to see the change
 Practice makes perfect
+I think I will really like coding
+I need to learn github very well
